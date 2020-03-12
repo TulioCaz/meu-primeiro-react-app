@@ -31,3 +31,5 @@
 ### Resultado
 
 ![exeple (1](https://user-images.githubusercontent.com/53826053/76482238-5fe06b80-63f2-11ea-9775-13d60ed7c988.jpg)
+
+> Atenção ao detalhe que eu aprovitei para trollar a minha namorada. rsrsrsrs
