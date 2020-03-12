@@ -15,4 +15,19 @@
   </a>
 </p>
 
+
 ---
+
+### Objetivos
+
+  Objetivo deste desfio é recriar uma interface semelhante a do Facebook, configurando uma aplicação React do zéro.
+  
+  Aprender para que server e como configurar ferramentas importantes para um desenvolvedor Front-end como Babel e Webpack.
+  
+  Desenvolver react COMPONENTS organizalos em uma estrutura de pastas, utilizar de conceitos basicos do react como o STATE e PROPS, estilizalos e exibilos em tela.
+  
+---
+
+### Resultado
+
+![exemplo-desafio](./exaple.jpg)
