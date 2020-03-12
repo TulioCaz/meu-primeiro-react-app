@@ -1,4 +1,19 @@
 /* Header */
+.post-list {
+  max-width: 1080px;
+  min-width: 630px;
+  margin: 0 auto 20px;
+}
+
+.post {
+  margin-top: 20px;
+  border-radius: 8px;
+  background: white;
+  padding: 20px;
+  color: #3e3e3e;
+  line-height: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
 .post-header {
   display: flex;
@@ -32,13 +47,16 @@
 /* Content */
 
 .post-content {
-  margin-top: 15px;
   font-size: 14px;
+}
+
+.content {
+  margin-top: 15px;
 }
 
 /* Comment */
 .post-comments {
-  margin: 15px 0;
+  margin-top: 15px;
 }
 
 .divider {
