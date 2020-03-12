@@ -10,21 +10,21 @@ class PostList extends Component {
       {
         id: 1,
         author: {
-          name: 'Vanessa Romero',
-          avatar: 'https://i.pravatar.cc/150?img=1'
+          name: 'Paola Silveira',
+          avatar: 'https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/51834000_2239644456313429_3177230184956821504_n.jpg?_nc_cat=106&_nc_sid=85a577&_nc_oc=AQnr1QfXFRz7So0UlUhrO44zRcxQFfMtU7FEGsZ8sNORodlxYXA0sfbP_gBXDTh4VxI&_nc_ht=scontent.fpoa2-1.fna&oh=5178fae9905a923e9a743b1283cb4ea4&oe=5E8EE596'
         },
-        date: '04 Jun 2019',
-        content: 'Pessoal, alguém sabe se a Rocketseat está contratando?',
+        date: 'Agora 22:30',
+        content: '#!@ CONTA HAKEADA! @!# ATENÇÃO ESTA CONTA FOI HAKEADA, PEÇO UM RESGATE DE R$200,00 PARA LIBERAR A CONTA, NO CONTRÁRIO IREMOS VENDER OS DADOS PARA OS CHINESES! #@$#!*$@#%!*&10010001000100010000100',
         comments: [
           {
             id: 2,
             author: {
-              name: 'Diego Fernandes',
-              avatar: 'https://avatars2.githubusercontent.com/u/2254731?v=4'
+              name: 'Tulio Camargo de Azevedo',
+              avatar: 'https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/p960x960/42462395_1978450165526476_1328322548726759424_o.jpg?_nc_cat=105&_nc_sid=85a577&_nc_oc=AQmyS1oxh04mlaIRvdhc4oaJqwEhkLELjgcHQqs2bvMZFXS8qT16t-6YC22GKI8VHX0&_nc_ht=scontent.fpoa2-1.fna&_nc_tp=6&oh=dbd2e8c676da0ad8eb364e86517accf8&oe=5E8DDDD6'
             },
-            date: '04 Jun 2019',
+            date: 'Agora 22:45',
             content:
-              'A Rocketseat está sempre em busca de novos membros para o time, e geralmente ficamos de olho em quem se destaca no Bootcamp, inclusive 80% do nosso time de devs é composto por alunos do Bootcamp. Além disso, se você tem vontade de ensinar gravando vídeos e criando posts, pode me chamar no Discord! (Sério, me chamem mesmo, esse comentário é real)'
+              'É você amor? ??? ??? ???'
           }
         ]
       },

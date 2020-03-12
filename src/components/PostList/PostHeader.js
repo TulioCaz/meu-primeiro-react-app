@@ -14,7 +14,7 @@ class PostHeader extends Component {
             {this.props.author.name}
           </span>
           <span>
-            {this.date}
+            {this.props.date}
           </span>
         </div>
       </div>
